@@ -1,6 +1,5 @@
 # URL-Schemes
 List of URL Schemes 
-
 URL Schemes and Usage:
 
 Run a shortcut from a URL
