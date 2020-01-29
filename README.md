@@ -609,6 +609,7 @@ Open = nflx://
 
 Outline:
 Open = ss://open
+On = ss://on
 ss://YWVzLTI1Ni1jZmI6c3NtZ3I5OTYwNDY0ODE2QGEzNDU4OTEzNDYuZ3l0ZW5nLmNvbTo2MTEyOA==
 
 PayPal: Mobile Cash:
@@ -631,7 +632,8 @@ Open = com.ideashower.ReadItLaterProAlpha://
 Open = com.ideashower.ReadItLaterProEnterprise://
 
 Potatso:
-Open = ssr://on
+Open = ssr://open
+On = ssr://on
 ssr://YWVzLTI1Ni1jZmI6c3NtZ3I5OTYwNDY0ODE2QGEzNDU4OTEzNDYuZ3l0ZW5nLmNvbTo2MTEyOA==
 
 Quizizz: Play to Learn:
